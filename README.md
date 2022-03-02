@@ -1,0 +1,2 @@
+# MDE_em-mascara-binaria
+o código tem como objetivo acessar um MDE em um formato Tif. converter em array, calcular a media da altitude, após isso converte os dados matriciais em uma matriz binária de 1 e 0, onde  0 é todos os pixels com altitude abaixo da média calculado e 1 todos os pixels igual ou acima da média calculada
